@@ -1,1 +1,2 @@
 ini adalah file pertama saya buat menggunakan Git
+- belajar hingga tuntas
